@@ -1,7 +1,8 @@
 # Lucas Raisi — Portfolio
 
 Python / Node.js developer focused on **DeFi automation, on-chain data and applied AI**.
-Energy Engineering student (UFAL). I build systems that run 24/7, measure everything and report to Telegram.
+Systems Analysis and Development student (Anhembi Morumbi). AI trainer and model evaluator since 2023 (Appen / Outlier.ai).
+I build systems that run 24/7, measure everything and report to Telegram.
 
 *Português abaixo.*
 
@@ -48,8 +49,8 @@ GitHub: [@lucasraisi](https://github.com/lucasraisi) · LinkedIn: *add link* · 
 ---
 
 ## Português
-Desenvolvedor Python/Node.js focado em **automação DeFi, dados on-chain e IA aplicada**. Estudante de Engenharia de
-Energia (UFAL). **Projeto principal:** [motor de liquidações e arbitragem DeFi (Base + Solana)](defi-liquidation-engine/README.pt-BR.md),
+Desenvolvedor Python/Node.js focado em **automação DeFi, dados on-chain e IA aplicada**. Estudante de Análise e Desenvolvimento de
+Sistemas (Anhembi Morumbi) e avaliador de modelos de IA desde 2023 (Appen / Outlier.ai). **Projeto principal:** [motor de liquidações e arbitragem DeFi (Base + Solana)](defi-liquidation-engine/README.pt-BR.md),
 um sistema 24/7 que monitora ~186 mil posições de empréstimo, simula liquidações com flash loan na rede real e reporta
 tudo no Telegram. **Plataforma de trading algorítmico "tbot" (código privado):** cripto (Bybit, Binance, OKX) e
 integrações com Alpaca, Interactive Brokers e MetaTrader 5 (B3); coletor de dados 24/7, backtest com walk-forward e Monte
