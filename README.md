@@ -14,6 +14,15 @@ and reports every result and error to Telegram, with on-chain self-diagnosis.
 Includes an open-source tool that measures the Base liquidation market (Chainlink SVR auctions vs public races).
 `Python` `Node.js` `Solidity` `web3.py` `@solana/web3.js` `Kamino SDK` `Jupiter Lend SDK` `systemd` `Telegram Bot API`
 
+### Algorithmic trading platform: "tbot" (private code)
+Python platform for crypto (Bybit, Binance and OKX via ccxt) with integrations for Alpaca (US), Interactive Brokers
+(London/Europe) and MetaTrader 5 (B3, Brazil). A 24/7 data collector (1-minute candles, funding, open interest,
+order book every 10 s) with retention rules and a daily automatic publication of summaries to GitHub; look-ahead-free
+backtesting with costs, walk-forward and Monte Carlo; a risk engine that vetoes any order outside limits (size, daily
+loss, drawdown, pace) with a kill switch; paper, testnet and live modes (live is locked behind a time-limited,
+confirmed release); Telegram commands. About 3,000 lines and 106 automated tests. Runs in paper mode: no real money yet.
+`Python` `ccxt` `pandas` `NumPy` `pytest` `Alpaca` `Interactive Brokers` `MetaTrader 5` `Telegram Bot API`
+
 ## AI & Machine Learning
 
 | Project | What it does | Stack |
@@ -42,6 +51,8 @@ GitHub: [@lucasraisi](https://github.com/lucasraisi) · LinkedIn: *add link* · 
 Desenvolvedor Python/Node.js focado em **automação DeFi, dados on-chain e IA aplicada**. Estudante de Engenharia de
 Energia (UFAL). **Projeto principal:** [motor de liquidações e arbitragem DeFi (Base + Solana)](defi-liquidation-engine/README.pt-BR.md),
 um sistema 24/7 que monitora ~186 mil posições de empréstimo, simula liquidações com flash loan na rede real e reporta
-tudo no Telegram. **IA/ML:** análise de ameaças STRIDE com FastAPI e Azure OpenAI, agente que gera testes unitários,
+tudo no Telegram. **Plataforma de trading algorítmico "tbot" (código privado):** cripto (Bybit, Binance, OKX) e
+integrações com Alpaca, Interactive Brokers e MetaTrader 5 (B3); coletor de dados 24/7, backtest com walk-forward e Monte
+Carlo, motor de risco com kill switch e 106 testes automatizados, em modo papel. **IA/ML:** análise de ameaças STRIDE com FastAPI e Azure OpenAI, agente que gera testes unitários,
 recomendação por imagem, reconhecimento facial, YOLO, assistente de voz e previsão de vendas no Azure ML.
 **Serviços:** bots de alerta no Telegram, relatórios de dados on-chain, automações em Python e integrações com IA.
