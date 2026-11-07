@@ -1,0 +1,89 @@
+== BASE LIQUIDATIONS (Morpho+Aave) — last 13 h — blocks 54140546..54374546 (0.20 s/block) ==
+ranges read 236 | failed 0
+blocks with liquidations: 7 | with an SVR update in the same block: 6 | without SVR (public race): 1
+
+BLOCO 54142357 (07/11 02:34:07 UTC) block gas 17,133,408/40,000,000
+  SVR   idx   2 OK  from 0x01f97338 liq  30 repaid US$  180,417.31 bonus~ US$ 22,869.80 | gas 2,091,726 @ 15.005 gwei = 0.03139 ETH
+  LEFTOVER idx  12 OK  from 0x47ccea5c liq   7 repaid US$      747.29 bonus~ US$     94.73 | gas   619,618 @ 20.353 gwei = 0.01261 ETH
+  LEFTOVER idx  13 OK  from 0x1cd78507 liq   4 repaid US$      879.47 bonus~ US$    111.48 | gas 1,602,572 @ 15.478 gwei = 0.02480 ETH
+  LEFTOVER idx  21 OK  from 0x1cd78507 liq  16 repaid US$      587.20 bonus~ US$     74.43 | gas 1,896,618 @ 7.005 gwei = 0.01329 ETH
+
+BLOCO 54142359 (07/11 02:34:07 UTC) block gas 15,705,512/40,000,000
+  PUBLIC idx   3 OK  from 0x2eeb607d liq   1 repaid US$        5.39 bonus~ US$      0.68 | gas   334,885 @ 0.774 gwei = 0.00026 ETH
+  PUBLIC idx   4 OK  from 0x16e475d9 liq   1 repaid US$        4.89 bonus~ US$      0.62 | gas   334,860 @ 0.701 gwei = 0.00023 ETH
+  PUBLIC idx   5 OK  from 0x27071f47 liq   1 repaid US$        4.58 bonus~ US$      0.58 | gas   334,885 @ 0.661 gwei = 0.00022 ETH
+  PUBLIC idx   6 OK  from 0xd6131668 liq   1 repaid US$        4.50 bonus~ US$      0.57 | gas   332,051 @ 0.649 gwei = 0.00022 ETH
+  PUBLIC idx   7 OK  from 0xeafc089e liq   1 repaid US$        4.40 bonus~ US$      0.56 | gas   333,863 @ 0.634 gwei = 0.00021 ETH
+  PUBLIC idx   8 OK  from 0xbc76a30d liq   1 repaid US$        4.20 bonus~ US$      0.53 | gas   334,871 @ 0.604 gwei = 0.00020 ETH
+  PUBLIC idx  28 OK  from 0x8eca5a84 liq   1 repaid US$        3.49 bonus~ US$      0.44 | gas   332,077 @ 0.501 gwei = 0.00017 ETH
+
+BLOCO 54148059 (07/11 02:53:07 UTC) block gas 12,613,713/40,000,000
+  SVR   idx   3 OK  from 0xeeacf719 liq  30 repaid US$  298,607.20 bonus~ US$ 37,851.62 | gas 2,075,350 @ 15.005 gwei = 0.03114 ETH
+  LEFTOVER idx   5 OK  from 0x6eaf1a2e liq  28 repaid US$    2,228.51 bonus~ US$    282.49 | gas 1,992,965 @ 24.287 gwei = 0.04840 ETH
+
+BLOCO 54155415 (07/11 03:17:38 UTC) block gas 39,931,779/40,000,000
+  SVR   idx   3 OK  from 0x6159e0ab liq   1 repaid US$   63,854.83 bonus~ US$  8,094.27 | gas   814,679 @ 15.005 gwei = 0.01222 ETH
+  LEFTOVER idx   4 OK  from 0xaeab9e49 liq   1 repaid US$    1,988.93 bonus~ US$    252.12 | gas   736,055 @ 192.810 gwei = 0.14192 ETH
+  LEFTOVER idx   5 REV from 0x091e7dd3 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   871,072 @ 160.005 gwei = 0.13938 ETH
+  LEFTOVER idx   6 OK  from 0x03468706 liq   1 repaid US$    8,343.73 bonus~ US$  1,057.66 | gas   645,146 @ 156.716 gwei = 0.10110 ETH
+  LEFTOVER idx   7 REV from 0xa3b53fb9 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   997,816 @ 144.544 gwei = 0.14423 ETH
+  LEFTOVER idx   9 OK  from 0xa77eafd1 liq   1 repaid US$    5,823.28 bonus~ US$    738.16 | gas   602,701 @ 126.621 gwei = 0.07631 ETH
+  LEFTOVER idx  11 REV from 0xa18a1efb liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   455,914 @ 112.190 gwei = 0.05115 ETH
+  LEFTOVER idx  14 OK  from 0x850dbd7c liq   1 repaid US$    8,950.76 bonus~ US$  1,134.60 | gas 1,368,869 @ 97.000 gwei = 0.13278 ETH
+  LEFTOVER idx  15 REV from 0x8529a66b liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas    68,029 @ 97.000 gwei = 0.00660 ETH
+  LEFTOVER idx  16 REV from 0x852e6fa6 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   259,694 @ 97.000 gwei = 0.02519 ETH
+  LEFTOVER idx  17 REV from 0x85354763 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas    68,029 @ 97.000 gwei = 0.00660 ETH
+  LEFTOVER idx  18 REV from 0x1a9cf971 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   398,162 @ 90.690 gwei = 0.03611 ETH
+  LEFTOVER idx  21 REV from 0xdaa6e29e liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas 1,208,991 @ 70.115 gwei = 0.08477 ETH
+  LEFTOVER idx  23 OK  from 0x9b835341 liq   1 repaid US$   26,296.26 bonus~ US$  3,333.33 | gas 1,159,852 @ 61.906 gwei = 0.07180 ETH
+  LEFTOVER idx  24 OK  from 0x00befef6 liq   6 repaid US$    9,305.86 bonus~ US$  1,179.62 | gas 1,681,980 @ 60.005 gwei = 0.10093 ETH
+  LEFTOVER idx  27 REV from 0xe2e5de9a liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas    70,047 @ 46.296 gwei = 0.00324 ETH
+  LEFTOVER idx  28 REV from 0x853d2e76 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas    67,992 @ 40.349 gwei = 0.00274 ETH
+  LEFTOVER idx  30 REV from 0x199fa395 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   488,246 @ 38.203 gwei = 0.01865 ETH
+  LEFTOVER idx  32 REV from 0x232831c0 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   501,451 @ 33.647 gwei = 0.01687 ETH
+  LEFTOVER idx  33 REV from 0x7b28956e liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   488,258 @ 32.783 gwei = 0.01601 ETH
+  LEFTOVER idx  34 REV from 0xe7b3ab07 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   281,637 @ 27.396 gwei = 0.00772 ETH
+  LEFTOVER idx  35 REV from 0x76307446 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   282,575 @ 26.385 gwei = 0.00746 ETH
+  LEFTOVER idx  37 REV from 0xd2f9bbd2 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   488,222 @ 24.523 gwei = 0.01197 ETH
+  LEFTOVER idx  38 REV from 0xef999811 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   488,208 @ 24.256 gwei = 0.01184 ETH
+  LEFTOVER idx  39 REV from 0x2e9ae85f liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   218,982 @ 23.551 gwei = 0.00516 ETH
+  LEFTOVER idx  40 REV from 0xb8f948bf liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   219,010 @ 20.331 gwei = 0.00445 ETH
+  LEFTOVER idx  42 REV from 0xb67b043d liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   219,012 @ 19.323 gwei = 0.00423 ETH
+  LEFTOVER idx  43 REV from 0xdf2eb2ad liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   488,264 @ 18.146 gwei = 0.00886 ETH
+  LEFTOVER idx  44 REV from 0xd1104bac liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   488,288 @ 17.772 gwei = 0.00868 ETH
+  LEFTOVER idx  45 REV from 0x71ddd296 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas    70,047 @ 16.620 gwei = 0.00116 ETH
+  LEFTOVER idx  46 REV from 0xd103537c liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   473,559 @ 14.171 gwei = 0.00671 ETH
+  LEFTOVER idx  47 REV from 0xcdfd91d8 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   473,535 @ 14.019 gwei = 0.00664 ETH
+  LEFTOVER idx  48 REV from 0x7fce2749 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   476,468 @ 12.125 gwei = 0.00578 ETH
+  LEFTOVER idx  49 REV from 0xd896a3c4 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   427,368 @ 12.111 gwei = 0.00518 ETH
+  LEFTOVER idx  50 REV from 0xe17a3ab8 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas    70,071 @ 11.815 gwei = 0.00083 ETH
+  LEFTOVER idx  53 OK  from 0xbc89cf4e liq   2 repaid US$      840.07 bonus~ US$    106.49 | gas   946,477 @ 16.905 gwei = 0.01600 ETH
+  LEFTOVER idx  56 OK  from 0x124cde29 liq   1 repaid US$      862.78 bonus~ US$    109.37 | gas   709,856 @ 10.105 gwei = 0.00717 ETH
+  LEFTOVER idx  57 OK  from 0x0fddd0ba liq   1 repaid US$      562.29 bonus~ US$     71.28 | gas   564,812 @ 9.998 gwei = 0.00565 ETH
+  LEFTOVER idx  58 OK  from 0x70938519 liq   1 repaid US$      773.94 bonus~ US$     98.11 | gas   632,156 @ 9.982 gwei = 0.00631 ETH
+  LEFTOVER idx  59 OK  from 0xc9620396 liq   8 repaid US$      557.28 bonus~ US$     70.64 | gas   867,456 @ 9.148 gwei = 0.00794 ETH
+  LEFTOVER idx  60 OK  from 0xab8c2d99 liq   1 repaid US$      277.55 bonus~ US$     35.18 | gas   399,221 @ 9.116 gwei = 0.00364 ETH
+  LEFTOVER idx  61 OK  from 0xe263d108 liq   1 repaid US$      588.23 bonus~ US$     74.56 | gas   564,766 @ 8.116 gwei = 0.00458 ETH
+  LEFTOVER idx  62 OK  from 0x0efd126d liq   1 repaid US$      675.35 bonus~ US$     85.61 | gas   564,730 @ 7.307 gwei = 0.00413 ETH
+  LEFTOVER idx  63 OK  from 0xcad04f2c liq   1 repaid US$      159.57 bonus~ US$     20.23 | gas   425,919 @ 7.256 gwei = 0.00309 ETH
+  LEFTOVER idx  65 REV from 0x39c59412 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   195,436 @ 4.138 gwei = 0.00081 ETH
+  LEFTOVER idx  66 OK  from 0x32915fe7 liq   1 repaid US$       30.08 bonus~ US$      3.81 | gas   603,578 @ 3.852 gwei = 0.00233 ETH
+  LEFTOVER idx  73 OK  from 0x2a2e465d liq   8 repaid US$      108.86 bonus~ US$     13.80 | gas 1,020,886 @ 3.005 gwei = 0.00307 ETH
+
+BLOCO 54160666 (07/11 03:35:08 UTC) block gas 14,730,567/40,000,000
+  SVR   idx   2 OK  from 0xacb1aa42 liq  33 repaid US$   94,899.89 bonus~ US$ 12,029.56 | gas 4,836,665 @ 15.005 gwei = 0.07257 ETH
+  LEFTOVER idx  18 OK  from 0x2d7252c4 liq   2 repaid US$        3.68 bonus~ US$      0.47 | gas 2,710,238 @ 0.102 gwei = 0.00028 ETH
+
+BLOCO 54172373 (07/11 04:14:10 UTC) block gas 4,685,112/40,000,000
+  SVR   idx   2 OK  from 0xacb1aa42 liq   4 repaid US$   35,319.55 bonus~ US$  4,477.13 | gas 1,926,743 @ 15.005 gwei = 0.02891 ETH
+
+BLOCO 54259713 (07/11 09:05:18 UTC) block gas 2,075,474/40,000,000
+  SVR   idx   2 OK  from 0xdcd7d20b liq   1 repaid US$        2.34 bonus~ US$      0.00 | gas 1,074,351 @ 15.005 gwei = 0.01612 ETH
+  LEFTOVER idx   3 REV from 0xacb1aa42 liq   0 repaid US$        0.00 bonus~ US$      0.00 | gas   260,489 @ 15.005 gwei = 0.00391 ETH
+
+== TOTALS ==
+SVR  : 6 tx | 99 liquidations | repaid US$ 673,101.13 | gross bonus~ US$ 85,322.38 (bid ceiling) | gas 0.1924 ETH
+LEFTOVER: 52 tx | 94 liquidations | repaid US$ 70,590.98 | gross bonus~ US$ 8,948.15 | gas 1.4410 ETH | reverted 30 (burned 0.6529 ETH of gas)
+PUBLIC (no SVR in block): 7 tx | 7 liquidations | repaid US$ 31.45 | gross bonus~ US$ 3.99 | gas 0.0015 ETH | reverted 0
+SVR senders (Chainlink nodes): {'0xacb1aa42': 2, '0x01f97338': 1, '0xeeacf719': 1, '0x6159e0ab': 1, '0xdcd7d20b': 1}
+leftover winners: {'0x1cd78507': 2, '0x47ccea5c': 1, '0x6eaf1a2e': 1, '0xaeab9e49': 1, '0x03468706': 1, '0xa77eafd1': 1, '0x850dbd7c': 1, '0x9b835341': 1}
