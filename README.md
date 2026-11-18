@@ -44,7 +44,7 @@ confirmed release); Telegram commands. About 3,000 lines and 106 automated tests
 - AI integrations: LLM agents and APIs (FastAPI + OpenAI/Azure OpenAI).
 
 ## Contact
-GitHub: [@lucasraisi](https://github.com/lucasraisi) · LinkedIn: *add link* · E-mail: *add e-mail*
+GitHub: [@lucasraisi](https://github.com/lucasraisi) · LinkedIn: https://linkedin.com/in/lucas-raisi
 
 ---
 
